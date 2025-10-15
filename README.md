@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suganthini-g&label=Profile%20views&color=0e75b6&style=flat" alt="suganthini-g" /> </p>
 
+- 📘 MSc (Reading) in Artificial Intelligence  at **University of Moratuwa**
 - 📘 BSc(Hons) Computer Science and Technology at **Uva Wellassa University of Sri Lanka**
 
 - 🌱 I’m willing to expand my knowledge in **Cloud Technologies**
