@@ -6,15 +6,6 @@
 
 - 📘 MSc (Reading) in Artificial Intelligence  at **University of Moratuwa**
 - 📘 BSc(Hons) Computer Science and Technology at **Uva Wellassa University of Sri Lanka**
-
-- 🌱 I’m willing to expand my knowledge in **Cloud Technologies**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Suganthini-G](https://github.com/Suganthini-G)
-
-- 💬 Ask me about **Anything you want to know**
-
-- 📫 How to reach me **https://twitter.com/SuganthiniG98**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/SuganthiniG98" height="30" width="40" /></a>
