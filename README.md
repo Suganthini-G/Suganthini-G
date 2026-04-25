@@ -10,8 +10,6 @@
 - 📘 BSc(Hons) Computer Science and Technology at **Uva Wellassa University of Sri Lanka**
 - 💬 Ask me about **React, Angular, .NET, Flutter, Python**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <table><tr>
 <td><a href="https://twitter.com/SuganthiniG98" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a></td>
@@ -60,5 +58,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suganthini-g&show_icons=true&locale=en&layout=compact" alt="suganthini-g" />
 </p>
-
----
